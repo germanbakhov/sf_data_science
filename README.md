@@ -4,4 +4,4 @@ This is a repository for writing and submitting code while studying at Skillfact
 
 ## Projects
 
-* [Project 1. Game: Guess the number][https://github.com/germanbakhov/sf_data_science/project_0]
+* [Project 1. Game: Guess the number](https://github.com/germanbakhov/sf_data_science/tree/main/project_0)
