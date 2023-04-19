@@ -15,10 +15,7 @@ while True:
         print("Число должно быть меньше!")
 
     elif predict_number < number:
-        print("Число должно быть больше!")
-        
-    elif count == 20:
-        break  # выход из цикла если угадали    
+        print("Число должно быть больше!")  
     
     else:
         print(f"Вы угадали число! Это число = {number}, за {count} попыток")
